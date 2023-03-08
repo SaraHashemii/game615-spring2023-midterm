@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c3127e7f0d0443cbaf0333d0efb46b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sun Flower
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69ac9de0cee5e448fb6fae2cf2d2cf96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
