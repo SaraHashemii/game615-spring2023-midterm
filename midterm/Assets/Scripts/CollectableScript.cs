@@ -43,6 +43,6 @@ public class CollectableScript : MonoBehaviour
 
     void SetScoreText()
     {
-        scoreText.text = "Brushes: " + score;
+        scoreText.text = "Wheat Collected: " + score;
     }
 }
